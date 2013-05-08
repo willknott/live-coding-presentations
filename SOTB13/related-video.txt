@@ -1,0 +1,8 @@
+http://project4.tv/video/453
+
+http://creativejs.com/2013/05/make-a-shoot-em-up-in-20-minutes/
+
+Last year at the State of the Browser conference in London, in an arbitrary but fun test, I pitted the browsers against each other to see which could render the most 3D particles. 
+This year, to change it up a bit, I live coded a space invaders type game, complete with particle explosions, and invited the browser reps to compete in a short tournament.
+
+The code was from the new CreativeJS games workshop, so it’s pretty simple to understand. You can get the source code on my github, and watch the video for a full (if slightly rushed) explanation. 
